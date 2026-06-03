@@ -57,10 +57,10 @@
 ## Slide 9 — Team
 - Founder: Stephen Paul Lutar Jr. — built the entire substrate + 5 flagships + Lean corpus.
 - **Honest:** 1 FTE today. Planned hires (use of funds): formal-methods eng, defense BD, security/compliance lead.
-- Advisor / warm channel: Defense Unicorns co-founder (written endorsement; Warhacker on-site June 16–20 2026).
+- Advisor / warm channel: Defense Unicorns co-founder (Warhacker on-site June 16–20 2026; design-partner conversation in progress).
 
 ## Slide 10 — Ask + runway + KPIs
-- **Ask:** $[X] seed→Series A; **18 months runway**.
+- **Ask:** $2M seed extension (pre-money: $8M, post-money: $10M); **18 months runway**.
 - **Use of funds:** SOC 2 (Q4 2026 Type 1) + FedRAMP/IL-4 path, 3–4 key hires, pen test, design-partner support.
 - **Targets:** DoD pilot + **3 enterprise design partners** in 18 months.
 - **KPIs:** signed-receipt volume, design-partner LOIs, SOC 2 Type 1 attained, first paid pilot.
