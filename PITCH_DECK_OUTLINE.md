@@ -21,7 +21,7 @@
 - Regulatory pressure rising (EU AI Act Article 12 logging; NIST AI RMF).
 
 ## Slide 3 — Solution
-- **A Lean-proven Λ-gate substrate + three verticals.**
+- **A formally-specified Λ-gate substrate + three verticals — machine-checked in Lean 4; Λ uniqueness is Conjecture 1 (open bounty).**
 - The gate: deny-by-default, allow-with-proof. Decisions wrapped in DSSE, chained into a
   tamper-evident **Khipu Merkle DAG**, replay-verifiable offline, **airgap-deployable** (UDS).
 - One substrate → three markets.
@@ -43,7 +43,7 @@
 - Console screenshot URL: `https://szlholdings-rosie.hf.space/console`
 
 ## Slide 7 — Moats
-- **749 declarations Lean-verified** (mechanical, not asserted; Λ uniqueness honestly a Conjecture).
+- **749 top-level Lean 4 declarations** (749/14/163 v11 LOCKED at kernel c7c0ba17; current main has additive rounds excluded from v11 baseline — see v12-roadmap.md); 5 formulas machine-checked sorry-free; Λ uniqueness = Conjecture 1.
 - **DSSE signing** + **Khipu Merkle DAG** — tamper-evident audit by construction.
 - **UDS airgap** deployability — works disconnected (IL-4 path).
 - **sentra immune system** — cross-cutting dual-use + injection filter protecting every organ.
