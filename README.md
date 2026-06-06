@@ -52,7 +52,7 @@ Series-A-ready collateral for SZL Holdings.
 | `HERO_VIDEO_SCRIPT.md` | 90-second hero-video narration (pairs with hero_video_v1.mp4) |
 | `DEMO_SCRIPTS/a11oy_60s.md` | 60s live demo — a11oy governance platform |
 | `DEMO_SCRIPTS/killinchu_60s.md` | 60s live demo — killinchu defense vertical |
-| `DEMO_SCRIPTS/rosie_60s.md` | 60s live demo — rosie personal aide |
+| `DEMO_SCRIPTS/rosie_60s.md` | 60s live demo — a11oy operator console |
 | `DESIGN_PARTNER_TARGETS.md` | 12 design-partner targets across 3 verticals |
 | `OUTREACH_EMAIL_TEMPLATE.md` | 5-paragraph cold outreach template |
 | `GREENE_FOLLOWUP_DRAFT.md` | Andrew Greene follow-up draft + call prep (warmest path) |
