@@ -31,10 +31,10 @@
 
 | # | Target | Why them | Warm intro path | Pitch angle | Time to first call |
 |---|--------|----------|-----------------|-------------|--------------------|
-| 9 | **Notion AI** | Aide actions on user data; needs provenance | Cold via product/partnerships | rosie pattern: sign + replay every aide action | 6–8 weeks |
+| 9 | **Notion AI** | Aide actions on user data; needs provenance | Cold via product/partnerships | personal-aide pattern: sign + replay every aide action | 6–8 weeks |
 | 10 | **Linear AI** | Agentic workflow actions in a trusted tool | Cold via founders' network | Governed command dispatch + signed receipts | 6–8 weeks |
 | 11 | **Granola** | AI meeting notes; sensitive data, audit value | Cold via founder network | Tamper-evident record of what the aide did with notes | 8 weeks |
-| 12 | **Krisp** | Voice AI aide; on-device + governance angle | Cold | sentra immune filter for voice-derived actions | 8–10 weeks |
+| 12 | **Krisp** | Voice AI aide; on-device + governance angle | Cold | input immune filter for voice-derived actions | 8–10 weeks |
 
 ---
 

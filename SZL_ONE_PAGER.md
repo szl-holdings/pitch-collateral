@@ -36,8 +36,8 @@ A **formally-verified governance gate** for agentic AI — a verifiable nervous 
 ## Traction (honest)
 
 - **Lean corpus:** 749 declarations / 14 axioms / 163 tracked sorries — mechanically verifiable at kernel commit `c7c0ba17`
-- **5 live HF Spaces:** a11oy · sentra · amaru · rosie · killinchu — all returning Doctrine v11 on `/api/health`
-- **31 Zenodo DOI-citable publications** (ORCID 0009-0001-0110-4173)
+- **2 public live HF Spaces:** a11oy · killinchu — both returning Doctrine v11 (`749/14/163`, kernel `c7c0ba17`) on `/healthz`. Additional organs run as private previews, not yet public.
+- **DOI-citable & ORCID-linked:** flagship record DOI [10.5281/zenodo.20434308](https://doi.org/10.5281/zenodo.20434308) (ORCID 0009-0001-0110-4173)
 - **Pre-revenue by design** — this capital funds the SBIR, first hire, pen test, and Warhacker partnership conversation
 
 ---

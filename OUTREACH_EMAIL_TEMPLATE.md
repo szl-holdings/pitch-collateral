@@ -18,12 +18,12 @@ honesty is the product). I'm reaching out because `[specific reason this target 
 team is shipping agent actions on money movement and needs gates you can actually prove"]`.
 
 **[Para 2 — Product, vertical-specific]** For `[their context]`, that means `[a11oy: a deny-by-default
-gate + 16-tool MCP server / killinchu: counter-UAS with signed mission plans / rosie: a personal
-aide that signs and replays every action]`. Every governed action is wrapped in a DSSE-signed
+gate + 16-tool MCP server / killinchu: counter-UAS with signed mission plans / personal aide: an aide
+that signs and replays every action]`. Every governed action is wrapped in a DSSE-signed
 receipt and chained into a tamper-evident ledger you can replay offline — and it's airgap-deployable
 via UDS for disconnected environments.
 
-**[Para 3 — Proof]** This isn't a deck. The five flagships are live and you can verify them right
+**[Para 3 — Proof]** This isn't a deck. The public flagships are live and you can verify them right
 now: `curl https://szlholdings-a11oy.hf.space/healthz` returns the honest Doctrine v11 numbers, and
 `/khipu/sign` → `/khipu/verify` round-trips a real ECDSA-P256 receipt. It's open and cited — DOI
 [10.5281/zenodo.20434308](https://doi.org/10.5281/zenodo.20434308), ORCID 0009-0001-0110-4173 — and
@@ -50,7 +50,7 @@ huggingface.co/SZLHOLDINGS · github.com/szl-holdings · ORCID 0009-0001-0110-41
 | Field | Defense | Enterprise governance | Personal AI |
 |-------|---------|-----------------------|-------------|
 | Para 1 hook | mission autonomy needs audit | agent actions need provable gates | aide actions need provenance |
-| Para 2 product | killinchu signed mission plans | a11oy deny-by-default gate + MCP | rosie sign + replay aide actions |
+| Para 2 product | killinchu signed mission plans | a11oy deny-by-default gate + MCP | personal aide sign + replay actions |
 | Para 4 reference | "Andrew Greene / Defense Unicorns" | (founder network) | (founder network) |
 
 **Do not** overstate: no SOC 2 yet (roadmap link instead), SLSA L1 not L3, 1 FTE. Honesty converts
