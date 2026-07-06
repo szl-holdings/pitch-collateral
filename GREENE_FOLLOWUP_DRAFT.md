@@ -33,8 +33,8 @@ Recipient: Andrew Greene (co-founder, Defense Unicorns) · Sender: Stephen Paul 
 Hi Andrew,
 
 Thank you again for the note and the encouragement — it meant a lot. You asked to see a *running
-deployment* at Warhacker, so here's where things stand: all five organs are live, and the defense
-vertical (killinchu) now does real counter-UAS work — ADS-B/MAVLink/Remote-ID decode, geofence
+deployment* at Warhacker, so here's where things stand: the public flagships (a11oy, killinchu) are
+live, and the defense vertical (killinchu) now does real counter-UAS work — ADS-B/MAVLink/Remote-ID decode, geofence
 checks, and signed mission plans through our Lean-proven gate. It deploys airgapped via UDS Zarf
 bundles (cosign-signed), entirely within UDS licensing bounds. I'll bring a fully running, offline
 deployment to San Diego.
@@ -80,6 +80,6 @@ huggingface.co/SZLHOLDINGS · github.com/szl-holdings · ORCID 0009-0001-0110-41
 - *"What do you need from us?"* → Sponsorship path + the LOI; engineering feedback during the pilot.
 
 **Bring to Warhacker:** laptop with offline UDS deployment, `SZL_ONE_PAGER.pdf`, the 3 demo scripts
-(a11oy / killinchu / rosie), compliance-posture + developers repo links.
+(a11oy / killinchu / personal aide), compliance-posture + developers repo links.
 
 *Founder owns the send decision. Signed Yachay `<yachay@szlholdings.dev>` · Co-Authored-By: Perplexity Computer Agent*

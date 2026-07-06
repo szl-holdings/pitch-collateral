@@ -37,16 +37,16 @@
 - Cesium screenshot URL: `https://szlholdings-killinchu.hf.space/globe`
 - Posture: *"We sense, we evidence; we do not jack into third-party drones."*
 
-## Slide 6 — Product 3: rosie (personal aide)
-- Operator console; recall memory, sign aide actions, replay decisions. sentra immune filter on
-  every command. Wire C live receipt stream.
-- Console screenshot URL: `https://szlholdings-rosie.hf.space/console`
+## Slide 6 — Product 3: personal aide
+- Operator console; recall memory, sign aide actions, replay decisions. Input immune filter on
+  every command. Live receipt stream.
+- Private preview (not a public HF Space yet); demo from the local/preview build — do not claim a public URL.
 
 ## Slide 7 — Moats
 - **749 top-level Lean 4 declarations** (749/14/163 v11 LOCKED at kernel c7c0ba17; current main has additive rounds excluded from v11 baseline — see v12-roadmap.md); 8 formulas machine-checked sorry-free {F1,F4,F7,F11,F12,F18,F19,F22}; Λ uniqueness = Conjecture 1.
 - **DSSE signing** + **Khipu Merkle DAG** — tamper-evident audit by construction.
 - **UDS airgap** deployability — works disconnected (IL-4 path).
-- **sentra immune system** — cross-cutting dual-use + injection filter protecting every organ.
+- **Input immune system** — cross-cutting dual-use + injection filter protecting every organ.
 - Open + cited (DOI, ORCID); honesty as a trust moat.
 
 ## Slide 8 — Market

@@ -31,17 +31,17 @@
 
 *Visual:* Cesium globe, a tracked drone, a signed mission plan, the LEGAL_BOUNDARIES panel.
 
-**[0:55–1:08] — Vertical 2 + 3: enterprise + personal (a11oy / rosie)**
-> "The same gate governs a11oy for enterprise agent governance, and rosie — a personal AI aide where
+**[0:55–1:08] — Vertical 2 + 3: enterprise + personal (a11oy / personal aide)**
+> "The same gate governs a11oy for enterprise agent governance, and a personal AI aide where
 > you can recall, act, and replay every decision, all signed."
 
-*Visual:* a11oy throne-room; rosie console with the live receipt stream.
+*Visual:* a11oy throne-room; the personal-aide console with the live receipt stream.
 
-**[1:08–1:20] — The immune system (sentra)**
-> "And across all of it runs sentra — an immune system that filters every input for dual-use and
+**[1:08–1:20] — The immune system**
+> "And across all of it runs an input immune system that filters every input for dual-use and
 > injection attacks, before any organ acts."
 
-*Visual:* A malicious prompt hits sentra's shield; verdict flips to BLOCK with reasons; the four
+*Visual:* A malicious prompt hits the immune shield; verdict flips to BLOCK with reasons; the four
 protected organs glow.
 
 **[1:20–1:30] — Close**
