@@ -1,63 +1,43 @@
-# SZL Holdings — Investor One-Pager
+# SZL Holdings — governed execution for consequential AI
 
-> **This document supersedes SZL_ONE_PAGER.pdf** (deleted 2026-06-03 — that file contained an unfilled `$[X]` fundraise placeholder).
+**Stage:** pre-revenue, founder-built prototype  
+**Financing frame:** focused seed extension; terms and amount remain draft inputs until the operating model is reconciled  
+**Evidence date:** 2026-08-26
 
-**Doctrine v11 LOCKED** · 749/14/163 · Λ = Conjecture 1 (NOT a theorem) · SLSA L1 (honest)
+## Problem
 
----
+Consequential AI workflows need more than a model response. Operators must know what policy admitted an action, which evidence was used, what artifact ran, what was refused, and whether deployed behavior matched approved source.
 
-## What We Build
+## Product thesis
 
-A **formally-verified governance gate** for agentic AI — a verifiable nervous system that watches every AI decision, refuses the ones that violate policy, and emits a tamper-evident, mathematically re-derivable receipt for each act.
+SZL is building a governed-execution layer with policy admission before action, explicit refusal and uncertainty states, inspectable evidence receipts, and revision-bound source-to-runtime identity.
 
-**First vertical:** counter-UAS / drone-autonomy oversight (Killinchu) for U.S. and Five-Eyes defense customers.
+A11oy is the primary public prototype. Killinchu is a vertical demonstration. Research assets support one platform thesis; they are not separate company launches.
 
----
+## Differentiation and proof boundary
 
-## The Raise
+SZL integrates policy admission, evidence receipts, source-to-runtime identity, and vertical demonstrations. Lean 4 is used for bounded kernel properties. Every formal claim must name the theorem, assumptions, revision, and unproven boundary. Unconditional Lambda uniqueness remains **Conjecture 1**.
 
-**Raising: $2M seed extension · Pre-money: $8M · Post-money: $10M · Dilution: 20%**
+## Evaluate now
 
-18 months of runway to first paid DoD pilot.
+- <https://a-11-oy.com/console>
+- <https://a-11-oy.com/verify>
+- <https://a-11-oy.com/counter-uas>
+- <https://holdings.a-11-oy.com/docs-site/>
+- <https://huggingface.co/SZLHOLDINGS>
 
-> Per the Series-A Readiness FINAL_VERDICT (2026-06-02): $2M at $8M pre-money is the defensible
-> honest number at current stage. Pre-revenue, 1 FTE, no signed contracts.
+Reachability is not production proof. See `EVIDENCE_REGISTER.md`.
 
-**Who we are talking to:** Angels with defense-tech expertise, former DoD/IC operators, In-Q-Tel scouts, small family offices.
+## Commercial hypothesis
 
-**Use of funds:**
-- AFWERX Spark Phase I SBIR application + engagement
-- First hire: formal-methods engineer
-- Penetration test + SOC 2 Type 1 engagement
-- Design-partner support for Warhacker pipeline
+Technical and risk leaders deploying AI into regulated, safety-critical, or operational workflows need a governed-execution layer that can produce audit-ready evidence without rebuilding their application stack.
 
----
+This is a hypothesis, not established product-market fit. The near-term goal is one segment, structured interviews, written problem confirmation, and a scoped paid pilot with measurable success criteria.
 
-## Traction (honest)
+## Financing milestones
 
-- **Lean corpus:** 749 declarations / 14 axioms / 163 tracked sorries — mechanically verifiable at kernel commit `c7c0ba17`
-- **2 public live HF Spaces:** a11oy · killinchu — both returning Doctrine v11 (`749/14/163`, kernel `c7c0ba17`) on `/healthz`. Additional organs run as private previews, not yet public.
-- **DOI-citable & ORCID-linked:** flagship record DOI [10.5281/zenodo.20434308](https://doi.org/10.5281/zenodo.20434308) (ORCID 0009-0001-0110-4173)
-- **Pre-revenue by design** — this capital funds the SBIR, first hire, pen test, and Warhacker partnership conversation
+A focused seed extension should fund production-grade source-to-runtime evidence, durable persistence and recovery, a concentrated design-partner program, and conversion of at least one evaluated workflow into a paid pilot.
 
----
+Before external use, amount, valuation, runway, hiring, and use of funds must reconcile to a 12–18 month model. This document does not assert a customer, partnership, DoD endorsement, government deployment, held certification, or completed fundraise.
 
-## Why Now
-
-- DoD April 2026 Agentic AI guidance mandates exactly what SZL ships
-- UDS Fleet launched 2026-06-02 — the ecosystem SZL is native to
-- Andrew Greene (Defense Unicorns co-founder) green-lit the `du-upstream-contributions` repo; Warhacker June 16–20 2026 is the design-partner conversation opportunity
-
----
-
-## Contact
-
-**Stephen Paul Lutar Jr.** · `stephen@szlholdings.com`
-ORCID: [0009-0001-0110-4173](https://orcid.org/0009-0001-0110-4173) · GitHub: [szl-holdings](https://github.com/szl-holdings) · HF: [SZLHOLDINGS](https://huggingface.co/SZLHOLDINGS)
-
----
-
-*Doctrine v11 LOCKED 749/14/163 · Λ Conjecture 1 (NOT a theorem) · SLSA L1 honest · Section 889 = 5 vendors · NO Iron Bank/FedRAMP/CMMC/SWFT/Mission Owner*
-
-*Signed-off-by: Yachay <yachay@szlholdings.ai>*
-*Co-Authored-By: Perplexity Computer Agent <agent@perplexity.ai>*
+Founder: Stephen Paul Lutar Jr.
