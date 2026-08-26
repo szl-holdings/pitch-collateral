@@ -1,20 +1,20 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-type: software
-title: "SZL Holdings — pitch-collateral"
-date-released: "2026-06-03"
+message: "If you reference this investor-collateral collection, cite the repository and exact revision."
+type: generic
+title: "SZL Holdings investor collateral"
+date-released: "2026-08-26"
 license: Apache-2.0
-repository-code: "https://github.com/szl-holdings/pitch-collateral"
+repository: "https://github.com/szl-holdings/pitch-collateral"
 url: "https://a-11-oy.com"
 abstract: >
-  SZL Holdings component — Doctrine v11 compliant (749/14/163, kernel c7c0ba17,
-  Λ = Conjecture 1). SLSA Build Level 1 (honest); Sigstore signing pending.
-  DCO-compliant; Section 889 attested (5 banned vendors).
+  Evidence-bound company, product, diligence, and customer-discovery materials
+  for SZL Holdings. Product and formal-methods claims remain scoped to their
+  cited source repositories and exact revisions.
 keywords:
-  - governance
+  - governed-execution
   - agentic-ai
-  - defense-tech
-  - doctrine-v11
+  - evidence
+  - investor-collateral
 authors:
   - name: "SZL Holdings"
     website: "https://a-11-oy.com"

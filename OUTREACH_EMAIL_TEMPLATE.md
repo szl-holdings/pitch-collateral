@@ -1,59 +1,28 @@
-# Cold Outreach Email Template (Design Partner)
+# Evidence-safe customer discovery outreach
 
-**SZL Holdings** · Customizable 5-paragraph template. Replace `[bracketed]` fields per target.
-Keep it honest and short. Founder reviews before sending.
+Use this template to request problem discovery, not to imply a customer, partnership, endorsement, or deployed capability.
 
----
+## Email
 
-**Subject:** `[First name]` — a Lean-proven governance gate for your AI agents
+**Subject:** governed execution for [specific workflow]
 
----
+Hi [name],
 
-Hi `[First name]`,
+I am building SZL, a governed-execution layer for consequential AI workflows. The prototype combines policy admission, explicit refusal states, evidence receipts, and revision-bound execution so an operator can inspect why an action was allowed and what ran.
 
-**[Para 1 — Hook]** I'm Stephen Lutar, founder of SZL Holdings. We build the missing layer beneath
-agentic AI: a **formally-verified governance gate**. Not a claim — a Lean 4 proof on disk (749
-declarations; we even publish that the central uniqueness result is still a conjecture, because
-honesty is the product). I'm reaching out because `[specific reason this target cares — e.g., "your
-team is shipping agent actions on money movement and needs gates you can actually prove"]`.
+I am researching how [specific team] evaluates [specific workflow]. I would value 30 minutes to understand which actions require approval, where current controls create burden, what evidence a pilot would need, and who owns the deployment decision.
 
-**[Para 2 — Product, vertical-specific]** For `[their context]`, that means `[a11oy: a deny-by-default
-gate + 16-tool MCP server / killinchu: counter-UAS with signed mission plans / personal aide: an aide
-that signs and replays every action]`. Every governed action is wrapped in a DSSE-signed
-receipt and chained into a tamper-evident ledger you can replay offline — and it's airgap-deployable
-via UDS for disconnected environments.
+If useful, I can show the bounded public prototype at <https://a-11-oy.com/console> and its documented limitations. I am not asking you to endorse the product; the goal is to test the problem and define measurable pilot criteria.
 
-**[Para 3 — Proof]** This isn't a deck. The public flagships are live and you can verify them right
-now: `curl https://szlholdings-a11oy.hf.space/healthz` returns the honest Doctrine v11 numbers, and
-`/khipu/sign` → `/khipu/verify` round-trips a real ECDSA-P256 receipt. It's open and cited — DOI
-[10.5281/zenodo.20434308](https://doi.org/10.5281/zenodo.20434308), ORCID 0009-0001-0110-4173 — and
-our full compliance posture (SOC 2 roadmap, security questionnaire, DPA) is public at
-github.com/szl-holdings/compliance-posture.
+Would [two concrete times] work?
 
-**[Para 4 — Ask]** I'd love **30 minutes** to show you a live demo and explore whether a design-partner
-pilot makes sense for `[their team]`. We're selecting a small number of design partners now, ahead of
-our Series A. `[Optional warm reference: "Andrew Greene at Defense Unicorns can speak to the
-collaboration."]`
+Stephen
 
-**[Para 5 — CTA]** Are you open to a short call in the next two weeks? Here's my calendar:
-`[calendar link placeholder]` — or reply with a couple of times that work and I'll send an invite.
+## Before sending
 
-Best,
-Stephen Paul Lutar Jr.
-Founder, SZL Holdings · stephen@szlholdings.com
-huggingface.co/SZLHOLDINGS · github.com/szl-holdings · ORCID 0009-0001-0110-4173
-
----
-
-## Customization cheat-sheet
-
-| Field | Defense | Enterprise governance | Personal AI |
-|-------|---------|-----------------------|-------------|
-| Para 1 hook | mission autonomy needs audit | agent actions need provable gates | aide actions need provenance |
-| Para 2 product | killinchu signed mission plans | a11oy deny-by-default gate + MCP | personal aide sign + replay actions |
-| Para 4 reference | "Andrew Greene / Defense Unicorns" | (founder network) | (founder network) |
-
-**Do not** overstate: no SOC 2 yet (roadmap link instead), SLSA L1 not L3, 1 FTE. Honesty converts
-better with technical buyers and avoids claim disputes later.
-
-*Signed Yachay `<yachay@szlholdings.dev>` · Co-Authored-By: Perplexity Computer Agent*
+- Verify the recipient, company, and workflow from current primary sources.
+- Re-run the demo preflight and record the observation time.
+- Remove every statement that lacks a dated evidence record.
+- Do not name a mutual contact without permission.
+- Do not imply compliance authorization, platform-wide formal verification, customer traction, defense deployment, persistent signing, or production readiness.
+- Record the response as discovery evidence; a meeting is not a partnership or design-partner commitment.
