@@ -28,6 +28,10 @@ SZL integrates policy admission, evidence receipts, source-to-runtime identity, 
 - [`HF_SPACE_CENSUS_2026-08-30.md`](HF_SPACE_CENSUS_2026-08-30.md)
 - [`HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md`](HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md)
 
+The governed-receipt Space witness and the A11oy `/verify` route are separate
+evidence surfaces. Do not attribute the Space's byte-parity or behavioral proof
+to A11oy.
+
 Reachability is not production proof. The public A11oy console is excluded from
 the approved investor demonstration until its visible claims pass the current
 claim-to-evidence matrix.

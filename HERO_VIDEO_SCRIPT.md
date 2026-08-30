@@ -8,17 +8,24 @@
 
 ## 15–35 seconds — product
 
-Show the public verifier at <https://a-11-oy.com/verify> beside the current
-`CLAIM_TO_EVIDENCE_MATRIX.md`. Capture the observation time and the exact
-response or evidence state used in the recording.
+Show the witnessed governed-receipt verifier Space at
+<https://szlholdings-governed-receipt-verifier.static.hf.space/> beside
+`HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md`. Before recording, refresh the
+Space revision and served `verify.py` identity; stop if they do not match the
+evidence record or if the record has not been updated for the drift.
 
 > “SZL is building governed execution: policy before action, explicit refusal states, inspectable receipts, and revision-bound source-to-runtime identity.”
 
 ## 35–50 seconds — evidence boundary
 
-Show the evidence register and `HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md`.
+Show the evidence register and the exact revision and behavior matrix in the
+runtime record.
 
-> “The verifier distinguishes verified, mismatched, unsigned, and unavailable evidence. Lean supports bounded kernel properties; it does not prove the whole platform or every AI decision.”
+> “At the recorded Space revision, the served verifier bytes matched the named signed source. Empty, unsupported, and tampered receipts were rejected; the named valid fixtures were accepted. This witness applies only to that revision and test set.”
+
+Do not substitute <https://a-11-oy.com/verify> in this sequence. The A11oy
+verifier has a separate `Reachable` evidence state, and this room does not prove
+that a particular A11oy receipt verifies.
 
 ## 50–60 seconds — ask
 

@@ -34,6 +34,10 @@ Demonstrate only after the preflight in `DEMO_SCRIPTS/` passes:
 
 Lean 4 supports bounded kernel properties. Unconditional Lambda uniqueness remains Conjecture 1. Do not describe the platform, AI, or every governance decision as formally verified.
 
+The Hugging Face governed-verifier witness and the A11oy `/verify` route are
+separate evidence surfaces. Do not use
+`HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md` as proof of A11oy verifier behavior.
+
 The public A11oy console is not an approved investor-demonstration surface
 until an exact-time copy review confirms that every visible claim is supported
 by the current evidence matrix.
