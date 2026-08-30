@@ -1,17 +1,16 @@
 # Claim-to-evidence matrix
 
-| Claim class | Current approved wording | Evidence required | Current state | Prohibited expansion |
-|---|---|---|---|---|
-| Company | Founder-built, pre-revenue prototype | Current founder/company record and finance evidence | PARTIAL | Series A-ready, funded, or revenue-generating without evidence |
-| Product | A11oy is a public governed-execution prototype | Exact source, served revision, route witness, limitations | PARTIAL | Production platform or availability commitment |
-| Vertical | Killinchu is a vertical demonstration | Exact source/runtime witness and scenario boundary | PARTIAL | Fielded defense system, customer deployment, or accredited environment |
-| Formal methods | Lean supports named bounded kernel results under stated assumptions | Theorem, assumptions, toolchain, exact revision, reproducible check | PARTIAL | Formally verified platform, model correctness, or universal safety |
-| Lambda uniqueness | Unconditional Lambda uniqueness remains Conjecture 1 | Canonical doctrine and exact kernel revision | VERIFIED | Proven, closed, or guaranteed uniqueness |
-| Receipts | Some surfaces expose evidence/verification states | Exact receipt, signer, subject, chain, persistence, and verifier output | PARTIAL | Every decision is signed or persistently verifiable |
-| Compliance | Compliance items are scoped roadmap or repository-specific evidence | Auditor/authority evidence for exact entity, product, period, and scope | NONE EVIDENCED | SOC 2, FedRAMP, IL-4/5, CMMC, or equivalent held status |
-| Customer | No customer, partner, pilot, LOI, or endorsement established in this room | Executed agreement or written authorization | NONE EVIDENCED | Named customer, partnership, pipeline, or endorsement |
-| Revenue | No independently verified revenue established | Reconciled accounting record | NONE EVIDENCED | ARR, bookings, contracted value, or paid pilot |
-| Hugging Face | Public inventory contains models, datasets, and Spaces | Exact Hub revision, source binding, license, direct serving witness | PARTIAL | `RUNNING` means intended app is operational |
+| Claim class | Current approved wording | Evidence required | Current evidence examined | Observation and method | Current state | Prohibited expansion |
+|---|---|---|---|---|---|---|
+| Company | Founder-built, pre-revenue prototype | Current founder/company record and finance evidence | `EVIDENCE_REGISTER.md`; `SZL_ONE_PAGER.md` at protected main `66f12f5ac78202f78e9eb59316ce43bb57980ec0` | 2026-08-29; repository content review | PARTIAL | Series A-ready, funded, or revenue-generating without evidence |
+| Product | A11oy is a public governed-execution prototype | Exact source, served revision, route witness, limitations | `EVIDENCE_REGISTER.md`; served build `09a9ef828f8775b23ee5a4338e8ed3d2f05f2eef` matched then-current `a11oy/main` | 2026-08-26; direct runtime and GitHub revision comparison | PARTIAL | Production platform or availability commitment |
+| Vertical | Killinchu is a vertical demonstration | Exact source/runtime witness and scenario boundary | `EVIDENCE_REGISTER.md`; served build `615ab4d59716537ad68a9211cc1d86b0a6f24a13`; runtime reported `production_ready:false` | 2026-08-26; direct runtime and GitHub revision comparison | PARTIAL | Fielded defense system, customer deployment, or accredited environment |
+| Formal methods | Lean supports named bounded kernel results under stated assumptions | Theorem, assumptions, toolchain, exact revision, reproducible check | Canonical doctrine summarized in `EVIDENCE_REGISTER.md`; exact reproducibility package not included in this room | 2026-08-26; source and doctrine review | PARTIAL | Formally verified platform, model correctness, or universal safety |
+| Lambda uniqueness | Unconditional Lambda uniqueness remains Conjecture 1 | Canonical doctrine and exact kernel revision | Canonical doctrine and locked kernel boundary summarized in `EVIDENCE_REGISTER.md` | 2026-08-26; source and doctrine review | VERIFIED | Proven, closed, or guaranteed uniqueness |
+| Receipts | Some surfaces expose evidence/verification states | Exact receipt, signer, subject, chain, persistence, and verifier output | A11oy verifier rendered; Killinchu reported `EPHEMERAL` ledger and `CI_ATTESTATION_EVIDENCE_UNPROVED` | 2026-08-26; direct public-surface review | PARTIAL | Every decision is signed or persistently verifiable |
+| Compliance | Compliance items are scoped roadmap or repository-specific evidence | Auditor/authority evidence for exact entity, product, period, and scope | No auditor or authorizing-body artifact is indexed in this room | 2026-08-29; complete data-room index review | NONE EVIDENCED | SOC 2, FedRAMP, IL-4/5, CMMC, or equivalent held status |
+| Customer | No customer, partner, pilot, LOI, or endorsement established in this room | Executed agreement or written authorization | `CUSTOMER_EVIDENCE_REGISTER.md` contains no qualifying record | 2026-08-29; complete register review | NONE EVIDENCED | Named customer, partnership, pipeline, or endorsement |
+| Revenue | No independently verified revenue established | Reconciled accounting record | No reconciled accounting artifact is indexed in this room | 2026-08-29; complete data-room index review | NONE EVIDENCED | ARR, bookings, contracted value, or paid pilot |
+| Hugging Face | Public inventory contains models, datasets, and Spaces | Exact Hub revision, source binding, license, direct serving witness | Public census: 17 models, 27 datasets, 26 Spaces; serving evidence summarized in `DILIGENCE_GAP_REGISTER.md` | 2026-08-27; Hub API census and representative direct probes | PARTIAL | `RUNNING` means intended app is operational |
 
 Every external deck, page, demo, and outreach message should be checked against this matrix at its exact revision.
-

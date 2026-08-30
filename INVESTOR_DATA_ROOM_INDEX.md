@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | Company | Entity formation and good-standing records | NOT YET PREPARED | Founder | — | — |
 | Financing | Cap table and financing history | NOT YET PREPARED | Founder | — | — |
-| Financing | 12–18 month operating model | NOT YET PREPARED | Founder | — | — |
+| Financing | 12–18 month operating model | NOT YET PREPARED | Founder | — | `FINANCING_ASSUMPTIONS_TEMPLATE.md` |
 | Product | Product architecture and roadmap | PARTIAL | Founder | 2026-08-27 | `SZL_ONE_PAGER.md`; `EVIDENCE_REGISTER.md` |
 | Market | Bottom-up market assumptions | NOT YET PREPARED | Founder | — | — |
 | Commercial | Customer discovery and pipeline evidence | NONE EVIDENCED | Founder | 2026-08-27 | `CUSTOMER_EVIDENCE_REGISTER.md` |
@@ -31,4 +31,3 @@
 ## Financing gate
 
 External financing materials are ready for institutional diligence only when the operating model, cap table, entity/IP records, customer evidence, security posture, roadmap, and financing terms reconcile to the same dated assumptions. Until then, the company may present a bounded prototype and financing hypothesis, not completed Series A readiness.
-
