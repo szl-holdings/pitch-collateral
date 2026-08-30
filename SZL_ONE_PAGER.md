@@ -25,6 +25,7 @@ SZL integrates policy admission, evidence receipts, source-to-runtime identity, 
 - <https://holdings.a-11-oy.com/docs-site/>
 - <https://huggingface.co/SZLHOLDINGS>
 - [`EVIDENCE_REGISTER.md`](EVIDENCE_REGISTER.md)
+- [`HF_SPACE_CENSUS_2026-08-30.md`](HF_SPACE_CENSUS_2026-08-30.md)
 - [`HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md`](HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md)
 
 Reachability is not production proof. The public A11oy console is excluded from

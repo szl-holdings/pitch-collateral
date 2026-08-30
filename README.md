@@ -30,6 +30,7 @@ The company is pre-revenue and founder-built. Public reachability is not product
 | `INVESTOR_DATA_ROOM_INDEX.md` | Diligence map and distribution rules |
 | `CLAIM_TO_EVIDENCE_MATRIX.md` | Approved wording and prohibited expansions |
 | `DILIGENCE_GAP_REGISTER.md` | Open and closed diligence gaps with evidence requirements |
+| `HF_SPACE_CENSUS_2026-08-30.md` | Exact public Space revisions and canonical-host reachability witness |
 | `HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md` | Immutable verifier parity and witnessed behavior record |
 | `DESIGN_PARTNER_TARGETS.md` | Customer-discovery plan |
 | `OUTREACH_EMAIL_TEMPLATE.md` | Evidence-safe outreach |
