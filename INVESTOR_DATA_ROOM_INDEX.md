@@ -1,7 +1,7 @@
 # SZL Holdings investor data room
 
 **Status:** structure prepared; evidence completeness varies by section.  
-**Last reviewed:** 2026-08-27  
+**Last reviewed:** 2026-08-30  
 **Rule:** an empty cell is not a pass. Use `VERIFIED`, `PARTIAL`, `UNKNOWN`, `NOT YET PREPARED`, `NONE EVIDENCED`, or `NOT APPLICABLE`.
 
 ## Diligence map
@@ -19,6 +19,9 @@
 | Legal/IP | IP ownership and contributor assignments | NOT YET PREPARED | Founder | — | `LEGAL_AND_IP_CHECKLIST.md` |
 | Legal/IP | Open-source obligations and trademarks | NOT YET PREPARED | Founder | — | `LEGAL_AND_IP_CHECKLIST.md` |
 | Evidence | Claim-to-evidence mapping | PARTIAL | Founder | 2026-08-27 | `CLAIM_TO_EVIDENCE_MATRIX.md` |
+| Evidence | Diligence gaps and closure records | PARTIAL | Founder | 2026-08-30 | `DILIGENCE_GAP_REGISTER.md` |
+| Evidence | Public Hugging Face Space census | PARTIAL | Founder | 2026-08-30 | `HF_SPACE_CENSUS_2026-08-30.md` |
+| Evidence | Governed-receipt verifier remediation | VERIFIED | Founder | 2026-08-30 | `HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md` |
 
 ## Distribution rules
 

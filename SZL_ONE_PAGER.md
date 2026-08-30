@@ -2,7 +2,7 @@
 
 **Stage:** pre-revenue, founder-built prototype  
 **Financing frame:** focused seed extension; terms and amount remain draft inputs until the operating model is reconciled  
-**Evidence date:** 2026-08-26
+**Evidence date:** 2026-08-30
 
 ## Problem
 
@@ -20,13 +20,21 @@ SZL integrates policy admission, evidence receipts, source-to-runtime identity, 
 
 ## Evaluate now
 
-- <https://a-11-oy.com/console>
 - <https://a-11-oy.com/verify>
 - <https://a-11-oy.com/counter-uas>
 - <https://holdings.a-11-oy.com/docs-site/>
 - <https://huggingface.co/SZLHOLDINGS>
+- [`EVIDENCE_REGISTER.md`](EVIDENCE_REGISTER.md)
+- [`HF_SPACE_CENSUS_2026-08-30.md`](HF_SPACE_CENSUS_2026-08-30.md)
+- [`HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md`](HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md)
 
-Reachability is not production proof. See `EVIDENCE_REGISTER.md`.
+The governed-receipt Space witness and the A11oy `/verify` route are separate
+evidence surfaces. Do not attribute the Space's byte-parity or behavioral proof
+to A11oy.
+
+Reachability is not production proof. The public A11oy console is excluded from
+the approved investor demonstration until its visible claims pass the current
+claim-to-evidence matrix.
 
 ## Commercial hypothesis
 
