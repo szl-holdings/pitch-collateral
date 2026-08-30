@@ -1,6 +1,6 @@
 # Diligence gap register
 
-**Updated:** 2026-08-29
+**Updated:** 2026-08-30
 
 | ID | Area | Gap | State | Risk | Closure evidence |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | DD-006 | Market | Bottom-up buyer, pricing, cycle, and conversion model absent | NOT YET PREPARED | Market and growth assumptions ungrounded | Cited assumption model tied to customer discovery |
 | DD-007 | Product | Roadmap not reconciled to financing milestones and acceptance criteria | PARTIAL | Use-of-funds narrative not executable | Milestone roadmap with owner, budget, dependency, date, and evidence gate |
 | DD-008 | Runtime | Promoted deployment evidence varies by surface | PARTIAL | Reachability may be mistaken for production | Source/artifact/deployment/served-revision receipt and runtime witness |
-| DD-009 | Hugging Face | Governed-receipt verifier serves fail-open code older than current signed source | VERIFIED GAP | Empty or unsupported receipt input is accepted by the deployed verifier | Deploy exact `verify.py` blob `9ca58fdb27f6f668290e31bd32bed0159b238bdb` from signed source `7d5976f089bec8af95aec915a7485d8091253190`, bind provenance, and witness fail-closed cases |
+| DD-009 | Hugging Face | Governed-receipt verifier had served fail-open code older than current signed source | REMEDIATED / RUNTIME WITNESSED | Regressions could reintroduce permissive receipt acceptance | `HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md`; live Space `59cfd859608c22925a1161967217a4338779d006`; byte-equal signed source `7d5976f089bec8af95aec915a7485d8091253190` |
 | DD-010 | Security | DDQ, control matrix, risk register, incident history, and external assessment incomplete | NOT YET PREPARED | Enterprise security diligence incomplete | Scoped security package and dated evidence |
 | DD-011 | Privacy/legal | Terms, privacy, DPA, subprocessors, export posture, and counsel review incomplete | NOT YET PREPARED | Customer contracting path incomplete | Counsel-reviewed current documents and applicability matrix |
 | DD-012 | Metrics | No customer/user/revenue/retention KPI history established | NONE EVIDENCED | Repository activity may be misread as traction | Instrumented, defined, reconciled KPI report |
