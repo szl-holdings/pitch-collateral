@@ -8,13 +8,15 @@
 
 ## 15–35 seconds — product
 
-Show the current A11oy console at <https://a-11-oy.com/console>.
+Show the public verifier at <https://a-11-oy.com/verify> beside the current
+`CLAIM_TO_EVIDENCE_MATRIX.md`. Capture the observation time and the exact
+response or evidence state used in the recording.
 
 > “SZL is building governed execution: policy before action, explicit refusal states, inspectable receipts, and revision-bound source-to-runtime identity.”
 
 ## 35–50 seconds — evidence boundary
 
-Show <https://a-11-oy.com/verify> and the evidence register.
+Show the evidence register and `HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md`.
 
 > “The verifier distinguishes verified, mismatched, unsigned, and unavailable evidence. Lean supports bounded kernel properties; it does not prove the whole platform or every AI decision.”
 
@@ -23,3 +25,8 @@ Show <https://a-11-oy.com/verify> and the evidence register.
 > “We are looking for one design workflow where evidence, approval, and replay matter. The next milestone is a scoped pilot with measurable success criteria.”
 
 Do not describe a customer, partnership, compliance authorization, defense deployment, persistent signing, or production readiness unless the video links to current primary evidence.
+
+Do not show <https://a-11-oy.com/console> in investor material until an
+exact-time copy review passes `CLAIM_TO_EVIDENCE_MATRIX.md`. The 2026-08-30
+review found universal-signing and environment-suitability language that this
+data room does not evidence.

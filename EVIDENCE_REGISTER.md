@@ -1,6 +1,6 @@
 # Investor evidence register
 
-**Observed:** 2026-08-26
+**Observed:** 2026-08-26; Hugging Face row refreshed 2026-08-30
 
 | Subject | Evidence state | Observation | Limitation |
 |---|---|---|---|
@@ -10,7 +10,7 @@
 | Formal methods | Bounded source evidence | Doctrine distinguishes bounded kernel results and conditional Theorem U from unconditional Lambda uniqueness. | Lambda uniqueness remains Conjecture 1; platform-wide formal verification is not established. |
 | Compliance | Roadmap documented | Canonical compliance page records current posture. | No SOC 2, FedRAMP, IL-4/IL-5, CMMC, or equivalent authorization is claimed as held. |
 | Signing | Incomplete | Canonical documentation describes SLSA L1 and pending or placeholder signing. | Do not claim every action, image, artifact, or release is signed. |
-| Hugging Face | Public inventory observed | Audit found 17 models, 27 datasets, and 26 Spaces. | Thirteen static Spaces reported `RUNNING` but returned a common public 404 at root and `/index.html`. |
+| Hugging Face | Public Space inventory observed | A focused Hub API census found six public Spaces: four Docker and two static. Both static Spaces served from their API-reported `*.static.hf.space` hosts. The governed-receipt verifier was byte-matched and behaviorally witnessed at Space revision `59cfd859608c22925a1161967217a4338779d006`; see `HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md`. | The model and dataset inventories were not refreshed in this focused record. Reachability is not availability, provenance, or production proof, and the verifier witness applies only to the named revision and tests. |
 | Traction | Unproved | No independently verified revenue, customer, paid pilot, LOI, or production contract was established. | Named targets and relationships remain private hypotheses until documented and authorized. |
 
 ## Minimum evidence before promotion

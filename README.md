@@ -11,7 +11,9 @@ The company is pre-revenue and founder-built. Public reachability is not product
 ## Canonical paths
 
 - Company: <https://a-11-oy.com/>
-- A11oy console: <https://a-11-oy.com/console>
+- A11oy console: <https://a-11-oy.com/console> (public surface; excluded from
+  investor demonstrations until its visible copy passes the current
+  claim-to-evidence matrix)
 - Public verifier: <https://a-11-oy.com/verify>
 - Documentation: <https://holdings.a-11-oy.com/docs-site/>
 - Compliance posture: <https://holdings.a-11-oy.com/docs-site/compliance.html>
@@ -25,6 +27,10 @@ The company is pre-revenue and founder-built. Public reachability is not product
 | `SZL_ONE_PAGER.md` | Current one-page company brief |
 | `PITCH_DECK_OUTLINE.md` | Seed-extension deck narrative |
 | `EVIDENCE_REGISTER.md` | Dated claim ledger and diligence gaps |
+| `INVESTOR_DATA_ROOM_INDEX.md` | Diligence map and distribution rules |
+| `CLAIM_TO_EVIDENCE_MATRIX.md` | Approved wording and prohibited expansions |
+| `DILIGENCE_GAP_REGISTER.md` | Open and closed diligence gaps with evidence requirements |
+| `HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md` | Immutable verifier parity and witnessed behavior record |
 | `DESIGN_PARTNER_TARGETS.md` | Customer-discovery plan |
 | `OUTREACH_EMAIL_TEMPLATE.md` | Evidence-safe outreach |
 | `DEMO_SCRIPTS/` | Demonstration guides with preflight gates |

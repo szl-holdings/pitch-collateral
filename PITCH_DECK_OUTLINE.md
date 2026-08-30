@@ -1,6 +1,6 @@
 # SZL Holdings — seed-extension deck outline
 
-**Evidence date:** 2026-08-26  
+**Evidence date:** 2026-08-30  
 **Rule:** every metric, relationship, deployment, proof, and compliance statement links to a dated primary record.
 
 ## 1. Company
@@ -27,11 +27,16 @@ A11oy is the primary public prototype. Killinchu is a vertical demonstration, no
 
 Demonstrate only after the preflight in `DEMO_SCRIPTS/` passes:
 
-- <https://a-11-oy.com/console>
 - <https://a-11-oy.com/verify>
 - <https://a-11-oy.com/counter-uas>
+- `CLAIM_TO_EVIDENCE_MATRIX.md`
+- `HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md`
 
 Lean 4 supports bounded kernel properties. Unconditional Lambda uniqueness remains Conjecture 1. Do not describe the platform, AI, or every governance decision as formally verified.
+
+The public A11oy console is not an approved investor-demonstration surface
+until an exact-time copy review confirms that every visible claim is supported
+by the current evidence matrix.
 
 ## 5. Why now
 
@@ -70,6 +75,8 @@ Capital is tied to production-grade source-to-runtime evidence, durable persiste
 ## Diligence appendix
 
 - Evidence register: `EVIDENCE_REGISTER.md`
+- Diligence gaps: `DILIGENCE_GAP_REGISTER.md`
+- Verifier runtime evidence: `HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md`
 - Documentation: <https://holdings.a-11-oy.com/docs-site/>
 - Compliance posture: <https://holdings.a-11-oy.com/docs-site/compliance.html>
 - Public source: <https://github.com/szl-holdings>

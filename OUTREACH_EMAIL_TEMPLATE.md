@@ -12,7 +12,9 @@ I am building SZL, a governed-execution layer for consequential AI workflows. Th
 
 I am researching how [specific team] evaluates [specific workflow]. I would value 30 minutes to understand which actions require approval, where current controls create burden, what evidence a pilot would need, and who owns the deployment decision.
 
-If useful, I can show the bounded public prototype at <https://a-11-oy.com/console> and its documented limitations. I am not asking you to endorse the product; the goal is to test the problem and define measurable pilot criteria.
+If useful, I can show the bounded public verifier at <https://a-11-oy.com/verify>
+beside its dated evidence register and documented limitations. I am not asking
+you to endorse the product; the goal is to test the problem and define measurable pilot criteria.
 
 Would [two concrete times] work?
 
