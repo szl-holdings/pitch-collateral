@@ -11,7 +11,7 @@ Report inadvertent disclosure, sensitive personal data, credential material, uns
 - Keep the repository private unless every file has passed disclosure review.
 - Do not store credentials, access tokens, customer data, private correspondence, cap-table data, or signed agreements in ordinary Markdown.
 - Treat named relationships and contact records as confidential unless external use is authorized.
-- Merge through the protected default branch with signed commits and exact-head hosted checks.
+- Merge through the protected default branch with exact-head hosted checks.
 - Preserve review threads and audit history; do not bypass branch protections.
 
 SLSA provenance, SBOMs, image signing, runtime controls, and product vulnerability handling belong to repositories that build and deploy those artifacts. This documentation repository does not claim those controls for itself.
