@@ -10,15 +10,16 @@ The company is pre-revenue and founder-built. Public reachability is not product
 
 ## Canonical paths
 
-- Company: <https://a-11-oy.com/>
-- A11oy console: <https://a-11-oy.com/console> (public surface; excluded from
-  investor demonstrations until its visible copy passes the current
-  claim-to-evidence matrix)
-- Public verifier: <https://a-11-oy.com/verify>
-- Documentation: <https://holdings.a-11-oy.com/docs-site/>
-- Compliance posture: <https://holdings.a-11-oy.com/docs-site/compliance.html>
-- Source: <https://github.com/szl-holdings>
+The current authority chain separates product/runtime from evidence. Do not collapse the two origins or treat a historical redirect/alias statement as current authority.
+
+- Product/runtime: <https://a-11-oy.com/>
+- Interactive receipt verifier: <https://a-11-oy.com/verify>
+- Proof registry, RECORD, evaluations, diligence, and known bounds: <https://a11oy.net/>
+- Investor diligence path: <https://a11oy.net/diligence/#investors>
+- Public source: <https://github.com/szl-holdings>
 - Research assets: <https://huggingface.co/SZLHOLDINGS>
+
+`a-11-oy.com` and `a11oy.net` are deliberately different authority surfaces. The product origin is not the proof registry, and the proof registry does not establish product-runtime availability or deployed equivalence. The interactive `/verify` tool remains on the product origin and is linked from, not cloned into, the proof origin.
 
 ## Data-room index
 
