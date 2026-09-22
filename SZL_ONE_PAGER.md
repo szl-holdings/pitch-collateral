@@ -2,7 +2,8 @@
 
 **Stage:** pre-revenue, founder-built prototype  
 **Financing frame:** focused seed extension; terms and amount remain draft inputs until the operating model is reconciled  
-**Evidence date:** 2026-08-30
+**Evidence date:** 2026-08-30  
+**Authority routing reviewed:** 2026-09-22
 
 ## Problem
 
@@ -20,21 +21,21 @@ SZL integrates policy admission, evidence receipts, source-to-runtime identity, 
 
 ## Evaluate now
 
-- <https://a-11-oy.com/verify>
-- <https://a-11-oy.com/counter-uas>
-- <https://holdings.a-11-oy.com/docs-site/>
-- <https://huggingface.co/SZLHOLDINGS>
+- Product/runtime: <https://a-11-oy.com/>
+- Interactive receipt verifier: <https://a-11-oy.com/verify>
+- Proof registry and investor diligence: <https://a11oy.net/diligence/#investors>
+- Canonical RECORD index: <https://a11oy.net/record/>
+- Public source: <https://github.com/szl-holdings>
+- Research assets: <https://huggingface.co/SZLHOLDINGS>
 - [`EVIDENCE_REGISTER.md`](EVIDENCE_REGISTER.md)
 - [`HF_SPACE_CENSUS_2026-08-30.md`](HF_SPACE_CENSUS_2026-08-30.md)
 - [`HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md`](HF_VERIFIER_RUNTIME_EVIDENCE_2026-08-30.md)
 
-The governed-receipt Space witness and the A11oy `/verify` route are separate
-evidence surfaces. Do not attribute the Space's byte-parity or behavioral proof
-to A11oy.
+The product/runtime origin and the proof origin are intentionally separate. `a11oy.net` is the evidence/RECORD/diligence surface; it is not a product runtime. The interactive `/verify` tool remains on `a-11-oy.com`. Reachability of either origin does not establish source-to-runtime parity, availability, or production readiness for the other.
 
-Reachability is not production proof. The public A11oy console is excluded from
-the approved investor demonstration until its visible claims pass the current
-claim-to-evidence matrix.
+The governed-receipt Space witness and the A11oy `/verify` route are separate evidence surfaces. Do not attribute the Space's byte-parity or behavioral proof to A11oy.
+
+Reachability is not production proof. The public A11oy console is excluded from the approved investor demonstration until its visible claims pass the current claim-to-evidence matrix.
 
 ## Commercial hypothesis
 
