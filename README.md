@@ -67,3 +67,7 @@ Absence of evidence is `UNKNOWN` or `UNAVAILABLE`, never a pass. Formal claims n
 - Unconditional Lambda uniqueness remains a conjecture. Bounded kernel results do not make the platform formally verified.
 - Reachability does not establish durable persistence, artifact attestation, or production readiness.
 - Signing, source-to-runtime parity, and deployment evidence vary by surface and must be checked at demonstration time.
+
+## License
+
+Apache-2.0 — see [LICENSE](LICENSE).
